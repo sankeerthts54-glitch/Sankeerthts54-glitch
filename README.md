@@ -77,14 +77,6 @@ Pairwise song ranking using merge sort — ranks any album with the mathematical
 
 ---
 
-### GitHub stats
-
-![Sankeerth's GitHub stats](https://github-readme-stats.vercel.app/api?username=sankeerthts54-glitch&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sankeerthts54-glitch&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888)
-
----
-
 ### Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankeerth-ts/)
